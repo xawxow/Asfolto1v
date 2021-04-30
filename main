@@ -1,3 +1,1923 @@
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
+local StarterGui = game:GetService("StarterGui") 
+local bindable = Instance.new("BindableFunction")
+
+function bindable.OnInvoke(response)
+    print(response .. " LOOOOL")
+end
+
+StarterGui:SetCore("SendNotification", {
+	Title = "Sucks to be you",
+	Text = "So why are you here",
+	Duration = 5,
+	Callback = bindable,
+	Button1 = "just want it free",
+	Button2 = "skid"
+})
+
 function realChat(wordstosay)
    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(wordstosay, "All")
 end
