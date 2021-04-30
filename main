@@ -1,1 +1,24 @@
-game.Players.LocalPlayer:Remove()
+function realChat(wordstosay)
+   game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(wordstosay, "All")
+end
+
+local maxIndex = 5 -- // edit this to how many strings are in the listofmemes module
+
+local listofmemes = {
+   "white supremacy !!!!!!!!!!!! jjsploit on top",
+   "jjsploit on top ezzz wizzed",
+   "im a hacker jjsploit on top",
+   "whites only",
+   "if ur black u suck",
+}
+
+local Index = 0
+
+while true do
+   wait(0.5)
+   Index = Index + 1
+   if Index >= maxIndex then
+       Index = Index - 4 -- // really shitty way to reroute this shit but i honestly dont care its 10PM rn
+   end
+   realChat(listofmemes[Index])
+end
