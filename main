@@ -1,3 +1,29 @@
+
+function realChat(wordstosay)
+   game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(wordstosay, "All")
+end
+
+local maxIndex = 5 -- // edit this to how many strings are in the listofmemes module
+
+local listofmemes = {
+   " yuh yuh yuh im a rappr folow me on souncloud bruh yuh also im a hacker!! jjsploit on top",
+   "jjsploit on top ezzz wizzed",
+   "im a hacker jjsploit on top",
+   "whites only",
+   "and i oop skskskksks",
+}
+
+local Index = 0
+
+while true do
+   wait(0.5)
+   Index = Index + 1
+   if Index >= maxIndex then
+       Index = Index - 4 -- // really shitty way to reroute this shit but i honestly dont care its 10PM rn
+   end
+   realChat(listofmemes[Index])
+end
+
 local StarterGui = game:GetService("StarterGui") 
 local bindable = Instance.new("BindableFunction")
 
